@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_practice/Mi_card.dart';
+import 'package:flutter_practice/mi_card.dart';
 
 void main() {
   runApp(const MyApp());
